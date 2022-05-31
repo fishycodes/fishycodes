@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alex Cook
-- 👀 I’m interested in automated animal behaviour analysis
+- 👀 I’m interested in automated animal behaviour analysis 🐟
 - 📫 Reach me on twitter: @AlexDCook10
